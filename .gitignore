@@ -1,0 +1,13 @@
+# venv
+env/
+.venv/
+venv/
+
+# secrets
+.env
+.env.*
+!.env.example
+
+# python cache
+__pycache__/
+*.py[codz]
